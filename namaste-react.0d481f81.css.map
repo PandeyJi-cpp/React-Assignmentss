@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["namaste-react.0d481f81.css","index.css"],"sourcesContent":["#heading {\n  color: #1717c7;\n}\n/*# sourceMappingURL=namaste-react.0d481f81.css.map */\n","#heading{\r\n    color:rgb(23, 23, 199);\r\n}"],"names":[],"version":3,"file":"namaste-react.0d481f81.css.map"}
